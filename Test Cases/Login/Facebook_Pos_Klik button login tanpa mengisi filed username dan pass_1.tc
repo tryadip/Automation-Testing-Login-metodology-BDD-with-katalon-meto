@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook_Pos_Klik button login tanpa mengisi filed username dan pass_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9cd32bbd-944f-434d-9912-bee6f9708eef</testCaseGuid>
+</TestCaseEntity>

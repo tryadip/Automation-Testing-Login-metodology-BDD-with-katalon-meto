@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook_Login_Pos_Login dengan data invalid_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>073aae6f-c3d8-472c-b3ea-a1661a333713</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8ce0b17-ea8f-4c58-be69-0cc17c6f1b56</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53fb47e8-04ec-4cf0-ae78-029b90c4b213</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>afd75d28-df31-42c5-9b5e-a6da6f264f29</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'tryadip@gmail.com'</defaultValue>
+      <description></description>
+      <id>f8ce0b17-ea8f-4c58-be69-0cc17c6f1b56</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'9229daawa'</defaultValue>
+      <description></description>
+      <id>53fb47e8-04ec-4cf0-ae78-029b90c4b213</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'www.facebook.com'</defaultValue>
+      <description></description>
+      <id>afd75d28-df31-42c5-9b5e-a6da6f264f29</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
